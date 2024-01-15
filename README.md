@@ -1,8 +1,13 @@
 # UAS PEMOGRAMAN WEB 1
+
 Nama  : Nadiatul umah
+
 NIM   : 312210500
+
 Kelas : TI.22.A5
+
 Mata Kuliah    : Pemrograman Mobile 1
+
 Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
 
 #Hasil running
